@@ -13,6 +13,7 @@ public class ContarFormasCambio {
 		// no si te has quedado sin monedas dentro del array
 		
 		if (monedas[0] == 0 && monedas[1] == 0 && monedas[2] == 0 ) return 0;
+
 		
 		// recursividad
 		
